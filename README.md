@@ -2,7 +2,7 @@ Chitter
 =================
 
 ## About this project
-Chitter is a Twitter clone web-app that I built using Ruby and Sinatra. It allows users to sign up, log in, post peeps (like tweets), and comment on peeps. Users can also view their own profile, the profiles of other users, and individual peeps.
+Chitter is a Twitter clone web-app that I built using Ruby, Sinatra and PostgreSQL. It allows users to sign up, log in, post peeps (like tweets), and comment on peeps. Users can also view their own profile, the profiles of other users, and individual peeps.
 
 ## Learnings from this project
 Through creating this app, I improved my ability to:
