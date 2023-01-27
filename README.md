@@ -15,8 +15,7 @@ Through creating this app, I improved my ability to:
 
 ## Installation
 ### How to install the code
-- Clone this repository to your local machine:
-``git clone git@github.com:atcq9876/chitter-challenge.git``
+- Clone this repository to your local machine
 - Navigate into the project directory:
 ``cd chitter-challenge``
 - Install the necessary dependencies:
