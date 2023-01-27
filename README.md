@@ -51,17 +51,17 @@ Through creating this app, I improved my ability to:
 ``rspec``
 
 ## Screenshots
-- All 34 tests passing with 98.43% total coverage
+#### All 34 tests passing with 98.43% total coverage
 ![screenshot of tests and test coverage](./screenshots/tests.png)
-- Feed when logged in
+#### Feed when logged in
 ![screenshot of the Chitter feed for a logged in user](./screenshots/feed-logged-in.png)
-- Peep when logged in
+#### Peep when logged in
 ![screenshot of a peep for a logged in user](./screenshots/peep-logged-in.png)
-- Logged in user's profile page
+#### Logged in user's profile page
 ![screenshot of the logged in user's profile](./screenshots/logged-in-users-profile.png)
-- Login page
+#### Login page
 ![screenshot of the login page](./screenshots/login-page.png)
-- Signup page
+#### Signup page
 ![screenshot of the signup page](./screenshots/signup-page.png)
 
 
